@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "About.html",
+    "currentPage": "Contact.html",
     "name": "CCC",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,8 @@
     "uniqCompNum": 28,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": "true"
+    "noImageResize": "true",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "Home.html": {
@@ -383,18 +384,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "content1-5",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text": "<blockquote>Matthew 28:19 “Go therefore and make disciples of all nations baptizing them in the name of the Father and of the Son and of the Holy Spirit”</blockquote>",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "font-size": "20px"
-            }
-          }
+          "text": "<blockquote>Matthew 28:19 “Go therefore and make disciples of all nations baptizing them in the name of the Father and of the Son and of the Holy Spirit”</blockquote>"
         }
       ]
     },
@@ -517,6 +518,17 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#cccccc"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "form1-b",
           "_params": {
             "labelsColor": "#ffffff",
@@ -562,18 +574,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#ffffff"
-            },
-            "SMALL": {
-              "color": "#cccccc"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
