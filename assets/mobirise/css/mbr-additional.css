@@ -702,6 +702,10 @@ h6,
 #menu-f .close-icon::after {
   background-color: #ffffff;
 }
+#msg-box8-u .mbr-section-title,
+#msg-box8-u p {
+  color: #fff;
+}
 #menu-m .hide-buttons .nav-btn {
   display: none !important;
 }
