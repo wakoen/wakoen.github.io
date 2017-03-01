@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Conferences.html",
+    "currentPage": "Intro.html",
     "name": "CCC",
     "theme": {
       "name": "mobirise3",
@@ -106,18 +106,18 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ccc2-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ccclogo2-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "Intro.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -269,18 +269,18 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ccc2-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ccclogo2-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "Intro.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -472,18 +472,18 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ccc2-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ccclogo2-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "Intro.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -681,18 +681,18 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ccc2-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ccclogo2-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "Intro.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -731,7 +731,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/worship-2000x1198.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -776,7 +776,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/preach-the-word.jpg",
-            "bgColor": "#7c706b",
+            "bgColor": "#28324e",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -859,18 +859,18 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ccc2-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ccclogo2-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
+              "link": "Intro.html",
               "title": "",
               "linkInNewWindow": false
             },
