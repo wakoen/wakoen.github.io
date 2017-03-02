@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Home.html",
+    "currentPage": "Contact.html",
     "name": "CCC",
     "theme": {
       "name": "mobirise3",
@@ -526,7 +526,8 @@
               "color": "#cccccc"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "30px"
             }
           },
           "_anchor": "form1-b",
@@ -536,7 +537,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-contact-us.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/banner-contact-us-1.jpg",
             "bgColor": "#c1c1c1",
             "bgColorRadio": false,
             "overlay": true,
@@ -550,7 +551,7 @@
           "form": {
             "action": "werner@gobi.co.za",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form. We will be in contact soon !"
             },
             "fields": {
               "name": {
