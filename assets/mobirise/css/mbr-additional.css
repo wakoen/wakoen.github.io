@@ -556,6 +556,9 @@ h6,
 #msg-box3-7 p {
   color: #000;
 }
+#msg-box3-7 .mbr-section-title {
+  font-size: 32px;
+}
 #content1-5 BLOCKQUOTE {
   font-size: 20px;
 }

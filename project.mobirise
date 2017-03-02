@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Home.html",
+    "currentPage": "About.html",
     "name": "CCC",
     "theme": {
       "name": "mobirise3",
@@ -391,6 +391,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
             }
           },
           "_tags": [
