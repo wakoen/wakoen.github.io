@@ -537,7 +537,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-contact-us-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2.jpg",
             "bgColor": "#c1c1c1",
             "bgColorRadio": false,
             "overlay": true,
