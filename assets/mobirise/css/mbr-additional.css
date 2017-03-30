@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -481,6 +483,11 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#slider-l H2 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 100px;
+  text-align: center;
+}
 #menu-1 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -639,73 +646,6 @@ h6,
   color: #ffffff;
   font-size: 30px;
 }
-#menu-f .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-f .navbar-caption {
-  color: #ffffff;
-}
-#menu-f .navbar-toggler {
-  color: #ffffff;
-}
-#menu-f .link,
-#menu-f .dropdown-item {
-  color: #ffffff;
-}
-#menu-f .link {
-  font-size: 1rem;
-}
-#menu-f .dropdown-item,
-#menu-f .nav-dropdown-sm .link {
-  font-size: 1.083rem;
-}
-#menu-f .link:hover,
-#menu-f .dropdown-item:hover,
-#menu-f .link:focus,
-#menu-f .dropdown-item:focus {
-  color: #f3c649;
-}
-#menu-f .link[aria-expanded="true"],
-#menu-f .dropdown-menu {
-  background: #171c2c;
-}
-#menu-f .nav-dropdown-sm .link:focus,
-#menu-f .nav-dropdown-sm .link:hover,
-#menu-f .nav-dropdown-sm .dropdown-item:focus,
-#menu-f .nav-dropdown-sm .dropdown-item:hover {
-  background: #232c44!important;
-}
-#menu-f .navbar,
-#menu-f .nav-dropdown-sm,
-#menu-f .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-f .nav-dropdown-sm .dropdown-menu {
-  background: #28324e;
-}
-#menu-f .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-f .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-f .bg-color.transparent.opened .link:hover,
-#menu-f .bg-color.transparent.opened .link:focus {
-  color: #f3c649;
-}
-#menu-f .link[aria-expanded="true"],
-#menu-f .dropdown-item[aria-expanded="true"] {
-  color: #f3c649!important;
-}
-#menu-f.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-f .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-f .close-icon::before,
-#menu-f .close-icon::after {
-  background-color: #ffffff;
-}
 #msg-box8-u .mbr-section-title,
 #msg-box8-u p {
   color: #fff;
@@ -776,4 +716,77 @@ h6,
 #menu-m .close-icon::before,
 #menu-m .close-icon::after {
   background-color: #ffffff;
+}
+#menu-v .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-v .navbar-caption {
+  color: #ffffff;
+}
+#menu-v .navbar-toggler {
+  color: #ffffff;
+}
+#menu-v .link,
+#menu-v .dropdown-item {
+  color: #ffffff;
+}
+#menu-v .link {
+  font-size: 1rem;
+}
+#menu-v .dropdown-item,
+#menu-v .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-v .link:hover,
+#menu-v .dropdown-item:hover,
+#menu-v .link:focus,
+#menu-v .dropdown-item:focus {
+  color: #f3c649;
+}
+#menu-v .link[aria-expanded="true"],
+#menu-v .dropdown-menu {
+  background: #171c2c;
+}
+#menu-v .nav-dropdown-sm .link:focus,
+#menu-v .nav-dropdown-sm .link:hover,
+#menu-v .nav-dropdown-sm .dropdown-item:focus,
+#menu-v .nav-dropdown-sm .dropdown-item:hover {
+  background: #232c44!important;
+}
+#menu-v .navbar,
+#menu-v .nav-dropdown-sm,
+#menu-v .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-v .nav-dropdown-sm .dropdown-menu {
+  background: #28324e;
+}
+#menu-v .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-v .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-v .bg-color.transparent.opened .link:hover,
+#menu-v .bg-color.transparent.opened .link:focus {
+  color: #f3c649;
+}
+#menu-v .link[aria-expanded="true"],
+#menu-v .dropdown-item[aria-expanded="true"] {
+  color: #f3c649!important;
+}
+#menu-v.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-v .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-v .close-icon::before,
+#menu-v .close-icon::after {
+  background-color: #ffffff;
+}
+#header1-x .mbr-section-lead {
+  font-size: 24px;
+}
+#header1-y .mbr-section-lead {
+  text-align: center;
 }
